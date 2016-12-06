@@ -52,4 +52,5 @@ export default ({lib, factory, apiJS}) => {
 			return site.run(cmd);
 		}
 	});
-}
+};
+
